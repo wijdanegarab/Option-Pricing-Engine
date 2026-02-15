@@ -1,4 +1,4 @@
-from option import Option # type: ignore
+from option import Option 
 import matplotlib.pyplot as plt
 import numpy as np
 
