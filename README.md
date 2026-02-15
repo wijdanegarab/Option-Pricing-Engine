@@ -75,4 +75,4 @@ J'ai séparé les deux approches en classes différentes pour que ce soit clair 
 
 ## Notes
 
-Les paramètres par défaut simulent une option Apple CALL sur 3 mois avec 150€ spot et 155€ strike. Tu peux les modifier pour tester différents scénarios.
+Les paramètres par défaut simulent une option Apple CALL sur 3 mois avec 150€ spot et 155€ strike. 
